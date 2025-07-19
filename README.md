@@ -1,28 +1,31 @@
-# 👋 Hi, I'm Pradeep Yadav
+<h1 align="center">👋 Hi, I'm Pradeep Yadav</h1>
 
-I'm a passionate **Full Stack Developer** with a focus on building fast, user-friendly web applications using modern technologies like **React**, **Node.js**, **MongoDB**, and **Tailwind CSS**.
-
----
-
-## 🚀 My Projects
-
-### 🎬 [MovieInfo](https://movieinfo24.vercel.app)
-A responsive movie and TV series explorer using the TMDb API. Users can browse what's trending, top-rated, or in theaters, and search any title worldwide.
-
-- 🔍 Search and filter by category
-- 📚 View cast, ratings, release date, and streaming info
-- 💻 Built with React + Tailwind CSS  
-- 🌐 [Live Demo](https://movieinfo24.vercel.app)
+<p align="center">
+  <b>A passionate Full Stack Developer who loves building clean and modern web applications.</b><br/>
+  React • Node.js • MongoDB • Tailwind CSS
+</p>
 
 ---
+
+## 🚀 Projects
 
 ### 📋 [WorkWave](https://workwave247.vercel.app)
-A task manager for admins and users. Admins can assign and track task progress, and users can view tasks with priorities, deadlines, and to-do lists.
+A task manager for both admins and users. Admins can assign, monitor, and export task reports.
 
-- 🧑‍💼 Admin can assign, update, delete tasks (to users or groups)
-- 📈 Download Excel reports of tasks and user status
-- 🛠️ Tech: React, Node.js, MongoDB, Tailwind CSS  
+- 🧑‍💼 Assign tasks to users or groups
+- 📈 Export task/user reports in Excel
+- 🛠️ Tech Stack: React, Node.js, MongoDB, Tailwind CSS
 - 🌐 [Live Demo](https://workwave247.vercel.app)
+
+---
+
+### 🎬 [MovieInfo](https://movieinfo24.vercel.app)
+A responsive movie and TV series explorer using the TMDb API.
+
+- 🔍 Browse Now Playing, Top Rated, Trending, and Popular
+- 📚 View cast, ratings, release date, and summaries
+- 💻 Built with React + Tailwind CSS
+- 🌐 [Live Demo](https://movieinfo24.vercel.app)
 
 ---
 
@@ -33,6 +36,3 @@ Frontend:   React, Tailwind CSS, JavaScript, TypeScript
 Backend:    Node.js, Express.js
 Database:   MongoDB
 Tools:      Git, GitHub, Vercel, Postman, ExcelJS
-
-# 🤝 Let's Connect
-# ✉️ Email: work.pradeepydv@gmail.com
